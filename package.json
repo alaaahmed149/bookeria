@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@neondatabase/serverless": "^1.0.0",
     "bookshop": "file:",
     "lucide-react": "^0.487.0",
     "next": "15.3.0",
